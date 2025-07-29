@@ -1,1 +1,1 @@
-# CMI-MATHS
+# CMI-M
